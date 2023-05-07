@@ -1,5 +1,5 @@
 <center>
-<h1> 🏚️Employee address project</h1>
+<h1> Employee address </h1>
 </center>
 <center>
 <a href="Java url">
@@ -120,8 +120,3 @@ We have used CrudRepository as a database to implement CRUD Operations.
 
 ---
 
-## 📝Project Summary
-
-I have created Employee Address project.  In this project I have used @OneToOne maping and the user can add the Employee & Address.  Can delete, update.  can find. etc...
-
-![Alt text](https://media.tenor.com/Ra5kgH_k8yMAAAAj/thank-you-thank-you-heart.gif)
