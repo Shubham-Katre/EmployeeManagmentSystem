@@ -60,9 +60,9 @@ The Employee Class And Address Class  is defined inside the model packages which
 
 ---
 
-## Functions used :-
+## Functions used:-
 
-### API Endpoints :-
+### API Endpoints:-
 </br>
 <b> addEmployees </b>
 
@@ -101,12 +101,12 @@ This endpoint returns Address.
 
 * PutMapping: 
 
-This endpoint makes a call to method in AddressService class which is connected to database. In database we update Address.
+This endpoint makes a call to the method in AddressService class which is connected to the database. In database we update Address.
 
 
 * DeleteMapping: 
 
-This endpoint makes a call to method in AddressService class which is connected to database. In database we delete Address through API.
+This endpoint makes a call to the method in AddressService class which is connected to the database. In database we delete Address through API.
 
 
 
